@@ -1,6 +1,6 @@
 ## Richland Avenue
 
-##Contact Info
+## Contact Info
 * E-mail: mrp99999999@gmail.com
 * Telegram: @alienHomme
 * Diskord: @Mist11e
@@ -36,6 +36,13 @@ JavaScript create table
    		 j = 1;
     }
 
+## Experience 
+
+*Have experience on developing .Net Core
+
+## Education
+
+*Self Education
 
 
 
