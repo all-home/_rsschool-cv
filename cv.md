@@ -19,7 +19,7 @@ Git
 
 ## Code Examples
 
-JavaScript create table
+```JavaScript 
  function createTable(rows, cols)
     {
       var j=1;
@@ -35,6 +35,7 @@ JavaScript create table
    		 output = output + "</tr>";
    		 j = 1;
     }
+```
 
 ## Experience 
 
